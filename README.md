@@ -1,24 +1,13 @@
-# example
 
-## Project setup
-```
+## 说明 
+
+LiMaoIMWebSDK的 demo
+
+## 安装
+
 yarn install
-```
 
-### Compiles and hot-reloads for development
-```
+## 启动
+
 yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
